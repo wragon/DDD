@@ -21,7 +21,7 @@
 * Keras
 
 ## 결과
-![image](https://user-images.githubusercontent.com/62223905/136493433-2f3265ea-dd02-430a-95ad-c1de9b636c97.png)
+![phone_result](https://user-images.githubusercontent.com/62223905/152672174-a140b7b4-3137-4e23-8da2-7cbda34259b0.jpg)
 
 ## References
 [1] Z. Cao, G. Hidalgo, T. Simon, S-E. Wei, and Y. Sheikh. "OpenPose: realtime multi-person 2D pose estimation using Part Affinity Fields." In CVPR, 2017.   
