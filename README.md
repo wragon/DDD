@@ -28,8 +28,8 @@
 [2] Hung, D. Huu, and H. Saito. "Fall detection with two cameras based on occupied area." Proc. of 18th Japan-Korea Joint Workshop on Frontier in Computer Vision. 2012.   
 [3] B. Kwolek, and M. Kepski, "Human fall detection on embedded platform using depth maps and wireless accelerometer", Computer Methods and Programs in Biomedicine, Volume 117, Issue 3, December 2014, Pages 489-501, ISSN 0169-2607.   
 [4] F.Song, X.Tan, X.Liu and S.Chen, Eyes Closeness Detection from Still Images with Multi-scale Histograms of Principal Oriented Gradients, Pattern Recognition, 2014.   
-[5] Iparaskev, Simple Blink Detector, https://github.com/iparaskev/ simple-blink-detector.   
-[6] Kairess, Eye Blink Detector, https://github.com/kairess/eye_ blink_detector.    
+[5] Iparaskev, Simple Blink Detector, https://github.com/iparaskev/simple-blink-detector.   
+[6] Kairess, Eye Blink Detector, https://github.com/kairess/eye_blink_detector.    
 [7] P. Chandran, D. Bradley, M. Gross, T. Beeler, "Attention-Driven Cropping for Very High Resolution Facial Landmark Detection", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.   
 [8] K. -N. Park, “A Facial Morphing Method Using Delaunay Triangle of Facial Landmarks”, 디지털콘텐츠학회논문지, Journal of Digital Contents Society Vol. 19, No. 1, pp. 213-220, Jan. 2018.   
 [9] J. Redmon, and A. Farhadi, “Yolov3: An incremental improvement”, arXiv preprint arXiv:1804.02767, 2018.   
