@@ -8,10 +8,10 @@ import seaborn as sns
 
 # dataset
 # 출처 : https://github.com/kairess/eye_blink_detector/tree/master/dataset
-x_train = np.load('C:/Users/user/Desktop/Junyong/PycharmProjects/dataset/x_train.npy').astype(np.float32)
-y_train = np.load('C:/Users/user/Desktop/Junyong/PycharmProjects/dataset/y_train.npy').astype(np.float32)
-x_val = np.load('C:/Users/user/Desktop/Junyong/PycharmProjects/dataset/x_val.npy').astype(np.float32)
-y_val = np.load('C:/Users/user/Desktop/Junyong/PycharmProjects/dataset/y_val.npy').astype(np.float32)
+x_train = np.load('PycharmProjects/dataset/x_train.npy').astype(np.float32)
+y_train = np.load('PycharmProjects/dataset/y_train.npy').astype(np.float32)
+x_val = np.load('PycharmProjects/dataset/x_val.npy').astype(np.float32)
+y_val = np.load('PycharmProjects/dataset/y_val.npy').astype(np.float32)
 
 # Image Augmentation(옵션을 더 많이 줘서 개선)
 train_argmentation = ImageDataGenerator(
