@@ -20,10 +20,10 @@
 * Tensorflow
 * Keras
 
-## CNN 모델 성능
+## CNN 모델 학습 결과
 ![image](https://user-images.githubusercontent.com/62223905/152923743-0035aff5-1391-4fd5-b352-bca235510e94.png)
 
-## 결과
+## 실행 결과
 ![phone_result](https://user-images.githubusercontent.com/62223905/152672174-a140b7b4-3137-4e23-8da2-7cbda34259b0.jpg)
 
 ## References   
